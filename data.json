@@ -1,0 +1,46 @@
+[
+    {
+        "heading_text": "Fill in a, e, i, o or u to complete these words.",
+        "heading_bgColor":"#9b1714",
+        "heading_txtColor":"#fff",
+        "finish_image": "bye.jpg"
+    },
+    {
+        "Q": "t#k#",
+        "blanks":["a", "e"],
+        "options": ["a", "e", "i", "o", "u"],
+        "question_image": "img1.webp"
+    },
+    {
+        "Q": "cycl#",
+        "blanks":["e"],
+        "options": ["a", "e", "i", "o", "u"],
+        "question_image": ""
+
+    },
+    {
+        "Q": "r#d#",
+        "blanks":["i", "e"],
+        "options": ["a", "e", "i", "o", "u"],
+        "question_image": ""
+    },
+    {
+        "Q": "h#ppy",
+        "blanks":["a"],
+        "options": ["a", "e", "i", "o", "u"],
+        "question_image": ""
+    },
+    {
+        "Q": "f#rst",
+        "blanks":["i"],
+        "options": ["a", "e", "i", "o", "u"],
+        "question_image": ""
+    },
+    {
+        "Q": "tyr#",
+        "blanks":["e"],
+        "options": ["a", "e", "i", "o", "u"],
+        "question_image": ""
+    }
+]
+
